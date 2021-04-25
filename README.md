@@ -4,7 +4,7 @@ Self-Driving Car Engineer Nanodegree Program
 [//]: # (Image References)
 
 [image1]: ./images/simulator.PNG "Simulation screen"
-[image2]: ./images/highway_path_f.GIF "Result"
+[image2]: ./images/highway_path_f.gif "Result"
 
 
 ### to safely navigate around a virtual highway with other traffic
