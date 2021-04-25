@@ -108,8 +108,7 @@ In order to observe the maximum acceleration and jerk, the speed is increased an
 - car_s - 30.0 < o_s (other's speen) < car_s + 30.0
 
 ### My driving
-
-
+![alt text][image2]
 
 ## Dependencies
 
